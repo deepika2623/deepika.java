@@ -14,7 +14,7 @@ public class Task1 {
 
         //Displaying the account details
         System.out.println("Account Holder Name: " + AccountholderName);
-        System.out.println("Final Balance: " + currentBalance);
+        System.out.println("Current Balance: " + currentBalance);
         System.out.println("Number of Transactions: " + numberOfTransactions);
     }
 }
