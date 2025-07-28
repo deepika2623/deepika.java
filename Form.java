@@ -1,4 +1,4 @@
-class RegistrationForm {
+class RegistrartionForm {
     public static void main(String[] args) {
         boolean isFirstYear = true;
         boolean isTransferee = false;
