@@ -1,4 +1,4 @@
- class Task1 {
+class Task1 {
     public static void main(String[] args) {
         String AccountholderName = "Deepika";
         int AccountBalance = 200000;
